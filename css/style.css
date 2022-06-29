@@ -1,0 +1,10 @@
+* {box-sizing: border-box;}
+
+body{
+    margin: 60px auto;
+    width: 800px; 
+    background-image: url('https://media.gq.com.mx/photos/62531eef85bcb733bbcbadb0/16:9/w_2560%2Cc_limit/sistema%2520solar.jpg');
+    object-fit: contain;
+   
+    
+}
